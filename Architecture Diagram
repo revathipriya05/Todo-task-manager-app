@@ -1,0 +1,13 @@
+[ Web / Mobile UI ]  <-->  [ API Gateway ]
+                             |
+            +----------------+----------------+
+            |                                 |
+   [ Auth Service (OAuth, JWT) ]      [ Task Service (CRUD API) ]
+            |                                 |
+                     [ Database: SQL or NoSQL ]
+            |
+   [ Notification Service (email, push) ]
+            |
+   [ Real-time Sync / Websocket Module ]
+            |
+         [ Cache Layer (Redis) ]
