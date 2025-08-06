@@ -1,0 +1,22 @@
+Project Structure
+
+
+
+lib/
+├── main.dart
+├── models/
+│   ├── task.dart
+│   └── user.dart
+├── services/
+│   ├── auth_service.dart
+│   └── task_service.dart
+├── screens/
+│   ├── login_screen.dart
+│   ├── home_screen.dart
+│   ├── add_task_screen.dart
+│   └── edit_task_screen.dart
+├── widgets/
+│   ├── task_item.dart
+│   └── custom_fab.dart
+└── utils/
+    └── constants.dart
