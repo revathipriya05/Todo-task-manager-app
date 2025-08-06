@@ -8,7 +8,7 @@ This is a **Flutter-based mobile application** built for managing daily tasks. I
 - Room database for local storage
 - Firebase Crashlytics for crash reporting
 - RecyclerView with swipe-to-delete and animations
-
+- 
 ## 📱 Tech Stack
 
 - Flutter (Dart)
@@ -16,7 +16,6 @@ This is a **Flutter-based mobile application** built for managing daily tasks. I
 - Firebase Crashlytics (optional)
 
 ## 📦 Firebase Setup
-
 1. Go to [Firebase Console](https://console.firebase.google.com/).
 2. Create a new Firebase project.
 3. Enable **Google Sign-In** under **Authentication**.
@@ -26,13 +25,11 @@ This is a **Flutter-based mobile application** built for managing daily tasks. I
 7. Run `flutter pub get` and launch the app.
 
 ## 🏗️ Architecture
-
 This app is built using the MVVM (Model-View-ViewModel) pattern to ensure scalability and maintainability.
 
 ## Hackathon Note
 This project is a part of a hackathon run by https://www.katomaran.com
 
-#Demo video link
-
+##Demo video link
 https://screenapp.io/app/#/shared/5Lm1RQ-hSX
 
