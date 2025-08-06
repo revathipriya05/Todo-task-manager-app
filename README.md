@@ -32,3 +32,7 @@ This app is built using the MVVM (Model-View-ViewModel) pattern to ensure scalab
 ## Hackathon Note
 This project is a part of a hackathon run by https://www.katomaran.com
 
+#Demo video link
+
+https://screenapp.io/app/#/shared/5Lm1RQ-hSX
+
